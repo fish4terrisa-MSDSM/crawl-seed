@@ -22,7 +22,7 @@ if (grep -q "MP+" $cache && ( grep -q "Int+6" $cache || grep -q "Int+7" $cache |
 	echo "meet need"
 else
 	echo "no"
-	rm $cache
+	#rm $cache
 fi
 ((SEED++))
 done
