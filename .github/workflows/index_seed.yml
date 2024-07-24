@@ -2,10 +2,10 @@ name: index_seed
 on: 
   push:
   workflow_dispatch:
-  check_suite:
-    types: [completed]
-  check_run:
-    types: [completed]
+  workflow_run:
+    workflows: ["index_seed"]
+    types:
+      - completed
 
 jobs:
   build:
