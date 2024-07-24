@@ -1,6 +1,6 @@
 name: index_seed
 on: 
-  [push]
+  push:
   workflow_dispatch:
   check_suite:
     types: [completed]
