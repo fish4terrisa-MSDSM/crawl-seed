@@ -1,9 +1,8 @@
 name: index_seed
 on:
-  push:
-    branches: [ flyingfish ]
-  pull_request:
-    branches: [ flyingfish ]
+  # Automatically run at the end of every day.
+  schedule:
+    - cron: '*/10 * * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
