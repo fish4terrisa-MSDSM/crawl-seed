@@ -1,0 +1,48 @@
+#pragma once
+
+#include "tag-version.h"
+
+enum trap_type
+{
+#if TAG_MAJOR_VERSION == 34
+    TRAP_DART,
+    TRAP_FIRST_TRAP = TRAP_DART,
+    TRAP_ARROW,
+    TRAP_SPEAR,
+#endif
+#if TAG_MAJOR_VERSION > 34
+    TRAP_DISPERSAL,
+    TRAP_FIRST_TRAP = TRAP_DISPERSAL,
+    TRAP_TELEPORT,
+#endif
+    TRAP_TELEPORT_PERMANENT,
+    TRAP_ALARM,
+#if TAG_MAJOR_VERSION == 34
+    TRAP_BLADE,
+    TRAP_BOLT,
+#endif
+    TRAP_NET,
+    TRAP_ZOT,
+#if TAG_MAJOR_VERSION == 34
+    TRAP_NEEDLE,
+#endif
+    TRAP_SHAFT,
+    TRAP_GOLUBRIA,
+    TRAP_PLATE,
+    TRAP_WEB,
+#if TAG_MAJOR_VERSION == 34
+    TRAP_GAS,
+    TRAP_TELEPORT,
+    TRAP_SHADOW,
+    TRAP_SHADOW_DORMANT,
+    TRAP_DISPERSAL,
+#endif
+    NUM_TRAPS,
+    TRAP_MAX_REGULAR = TRAP_SHAFT,
+    TRAP_UNASSIGNED = 100,
+#if TAG_MAJOR_VERSION == 34
+    TRAP_UNUSED1,                      // was TRAP_INDEPTH
+    TRAP_UNUSED2,                      // was TRAP_NOTELEPORT
+#endif
+    TRAP_RANDOM,
+};

@@ -1,0 +1,384 @@
+ Seeded DCSS version 0.31.0 (console) character file.
+
+Game seed: 2119775598349577792 (custom seed)
+
+fish4terrisa the Gusty (Deep Elf Air Elementalist)     Turns: 0, Time: 00:00:13
+
+Health: 10/10      AC:  2    Str:  5    XL:     1   Next: 0%
+Magic:  6/6        EV: 12    Int: 19    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 15    Spells: 5/6 levels left
+
+rFire   . . .        (no weapon)
+rCold   . . .        (no shield)
+rNeg    . . .        a - +0 robe
+rPois   .            (no helmet)
+rElec   .            (no cloak)
+rCorr   .            (no gloves)
+SInv    .            (no boots)
+Will    .....        (no amulet)
+Stlth   ++           (no ring)
+HPRegen 0.21/turn    (no ring)
+MPRegen 0.10/turn
+
+%: no passive effects
+@: no status effects
+A: no striking features
+a: Build terrain, Set terrain to build, Clear terrain to floor
+
+
+You are on level 1 of the Dungeon.
+You have visited 1 branch of the dungeon, and seen 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Potions
+ b - a potion of magic
+
+
+   Skills:
+ + Level 2.4 Dodging
+ + Level 2.4 Stealth
+ + Level 3.0 Spellcasting
+ + Level 1.1 Conjurations
+ + Level 3.0 Air Magic
+
+
+You have 5 spell levels left.
+You know the following spells:
+
+ Your Spells              Type           Power      Damage    Failure   Level
+a - Shock                 Conj/Air       10 (25)    1d5       7%          1
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power      Damage    Failure   Level
+ Static Discharge         Conj/Air       10 (50)    3-4/arc   10%         2
+ Swiftness                Air            14 (100)   N/A       13%         3
+ Airstrike                Air            14 (200)   2d(1-17)  41%         4
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Bones file is buggy: saves/bones/bones.store.Zig
+Clearing bad bones file: saves/bones/bones.store.Zig
+Bones file is buggy: saves/bones/bones.store.Zig
+Clearing bad bones file: saves/bones/bones.store.Zig
+Bones file is buggy: saves/bones/bones.store.Zig
+Clearing bad bones file: saves/bones/bones.store.Zig
+Bones file is buggy: saves/bones/bones.store.Zig
+Clearing bad bones file: saves/bones/bones.store.Zig
+Bones file is buggy: saves/bones/bones.store.Zig
+Clearing bad bones file: saves/bones/bones.store.Zig
+Bones file is buggy: saves/bones/bones.store.Zig
+Clearing bad bones file: saves/bones/bones.store.Zig
+Bones file is buggy: saves/bones/bones.store.Zig
+Clearing bad bones file: saves/bones/bones.store.Zig
+Bones file is buggy: saves/bones/bones.store.Zig
+Clearing bad bones file: saves/bones/bones.store.Zig
+Bones file is buggy: saves/bones/bones.store.Zig
+Clearing bad bones file: saves/bones/bones.store.Zig
+Bones file is buggy: saves/bones/bones.store.Zig
+Clearing bad bones file: saves/bones/bones.store.Zig
+Bones file is buggy: saves/bones/bones.store.Zig
+Clearing bad bones file: saves/bones/bones.store.Zig
+Bones file is buggy: saves/bones/bones.store.Zig
+Clearing bad bones file: saves/bones/bones.store.Zig
+Bones file is buggy: saves/bones/bones.store.Zig
+Clearing bad bones file: saves/bones/bones.store.Zig
+Bones file is buggy: saves/bones/bones.store.Zig
+Clearing bad bones file: saves/bones/bones.store.Zig
+Bones file is buggy: saves/bones/bones.store.Zig
+Clearing bad bones file: saves/bones/bones.store.Zig
+Welcome, fish4terrisa the Deep Elf Air Elementalist.
+Game seed: 2119775598349577792 (custom seed)
+Press ? for a list of commands and other information.
+Found a staircase leading out of the dungeon and a stone staircase leading
+down.
+Saving game... please wait.
+
+.###.....#..
+ ..#.......
+  ........#
+   .......#
+  ##......##
+  #..≈≈≈≈..###
+  #.≈≈≈≈≈≈....
+  #.≈≈@>≈≈....
+  #.≈≈≈≈.≈....
+  #..≈≈≈≈...#.
+  ##.......#..
+   ...........
+  #..........#
+  #..##.###..#
+  #..  .#  ..#
+
+
+There are no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | fish4terrisa the Deep Elf Air Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | You started the game in wizard mode.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 6/6
+
+Illustrated notes
+
+Levels and vault maps discovered:
+[+gen,+vis] D:1:      dpeg_arrival_pits, layout_basic, serial_shops, shop
+[+gen,-vis] D:2:      layout_basic, serial_park_tiny_1,
+                      wad_floor_pattern_untrapped, uniq_crazy_yiuf_cottage,
+                      uniq_jessica
+[+gen,-vis] D:3:      layout_loops_ring, fedhas_altar_1, fountainhead,
+                      minmay_distorted, uniq_natasha
+[+gen,-vis] D:4:      layout_basic, enter_ossuary_3, kennysheep_generic_room_3,
+                      uniq_menkaure
+[+gen,-vis] D:5:      layout_rooms, serial_corexii_hall,
+                      chequers_hall_statues_corner_a,
+                      chequers_hall_statues_corner_a
+[+gen,-vis] D:6:      layout_basic, minmay_temple_entry_mini_moons,
+                      serial_shops, shop, nicolae_shop_advertising_works
+                      [nicolae_subvault_shop_adworks], shop_fountains
+[+gen,-vis] D:7:      layout_loops_ring, grunt_temple_overflow_open,
+                      hangedman_decor_riveting, reono_crystal_passage
+[+gen,-vis] D:8:      layout_loops_ring, special_room [special_room_orc],
+                      minmay_misc_feat_secret_circle
+[+gen,-vis] D:9:      layout_loops_ring, david_orc_5, hellmonk_scale_shop
+[+gen,-vis] D:10:     layout_long_grid, serial_shops, nicolae_shop_trees
+[+gen,-vis] D:11:     minmay_the_grid_octo_tiled_squarecenter_mashed
+                      [minmay_the_grid_octo_clover_2,
+                      minmay_the_grid_octo_concentric,
+                      minmay_the_grid_octo_fan_narrow,
+                      minmay_the_grid_octo_shrine,
+                      minmay_the_grid_square_5x5_megaprize_diamond,
+                      minmay_the_grid_square_5x5_gyroscope,
+                      minmay_the_grid_square_5x5_n,
+                      minmay_the_grid_square_5x5_v,
+                      minmay_the_grid_square_5x5_inner_v], layout_loops_ring,
+                      minmay_lair_entry_lava, kennysheep_generic_room_13,
+                      uniq_maurice, uniq_fannar, uniq_urug
+[+gen,-vis] D:12:     layout_cross
+[+gen,-vis] D:13:     layout_basic, david_vaults_4, nicolae_lava_and_water
+[+gen,-vis] D:14:     minmay_box_of_statues, layout_rooms,
+                      chequers_serial_rivers_small_3,
+                      chequers_serial_rivers_room_b,
+                      einodemon_crawler_minivault, uniq_josephine
+[+gen,-vis] D:15:     grunt_enter_depths_giant_problem, layout_irregular_city,
+                      nicolae_titane, serial_shops, nicolae_shop_peninsula,
+                      uniq_kirke
+[+gen,-vis] Temple:   nicolae_temple_no_exploring_needed
+[+gen,-vis] Lair:1:   layout_cave_pods, serial_bayou_shore_b
+[+gen,-vis] Lair:2:   layout_cellular_growth, grunt_megastairs_2,
+                      infiniplex_staircase_pool_2, serial_bayou_shore_a
+[+gen,-vis] Lair:3:   layout_misc_corridors,
+                      alex1729_swamp_entry_worm_eleionoma,
+                      spider_nest_entry_web_field, grunt_forest_large_clearings
+[+gen,-vis] Lair:4:   layout_cave_pods, slime_entry_1,
+                      hellmonk_guarded_unrand_vines, grunt_megastairs_1
+[+gen,-vis] Lair:5:   wormcave, layout_concentric_octagons,
+                      hangedman_lair_caniforms_friends, gauntlet_entry_generic,
+                      lemuel_fruit_tree
+[+gen,-vis] Swamp:1:  layout_basic_swamp, serial_swamp_ruin,
+                      evilmike_swamp_ruin_rubble_2,
+                      evilmike_swamp_ruin_rubble_1, evilmike_swamp_ruin_house_5,
+                      uniq_mlioglotl
+[+gen,-vis] Swamp:2:  layout_basic_swamp, evilmike_swamp_ruin_house_4,
+                      swamp_pool_1_2, nicolae_swamp_baby_hydras
+[+gen,-vis] Swamp:3:  layout_basic_swamp, nicolae_swamp_round_clearing,
+                      nicolae_swamp_catching_bugs
+[+gen,-vis] Swamp:4:  nzn_swamp_witches_coven, layout_basic_swamp,
+                      uniq_bai_suzhen
+[-gen]      Shoals:1
+[-gen]      Shoals:2
+[-gen]      Shoals:3
+[-gen]      Shoals:4
+[-gen]      Snake:1
+[-gen]      Snake:2
+[-gen]      Snake:3
+[-gen]      Snake:4
+[+gen,-vis] Spider:1: layout_spider_delve, nicolae_spider_not_touching_you
+[+gen,-vis] Spider:2: layout_chambers, nicolae_spider_some_kinda_spiderbox
+[+gen,-vis] Spider:3: layout_chambers
+[+gen,-vis] Spider:4: grunt_spider_rune_circles
+[+gen,-vis] Slime:1:  layout_caves
+[+gen,-vis] Slime:2:  layout_caves
+[+gen,-vis] Slime:3:  layout_caves
+[+gen,-vis] Slime:4:  layout_caves, uniq_dissolution
+[+gen,-vis] Slime:5:  slime_pit_nicolae_amoeboid
+[+gen,-vis] Orc:1:    layout_diamond_mine, serial_shops, nicolae_lakefront_shop,
+                      portal_ice_cave_entry_ice_simulacra
+[+gen,-vis] Orc:2:    st_orc_open, layout_caves, serial_shops, shop, uniq_sonja
+[+gen,-vis] Elf:1:    nicolae_elf_arrival_fired_up, layout_geoelf_diagonals,
+                      minivault_28, st_stairs_5, minmay_shoptagon
+[+gen,-vis] Elf:2:    nicolae_elf_blades_crystal_corner, layout_loops_cross,
+                      hangedman_elf_disciples
+[+gen,-vis] Elf:3:    nooodl_elf_gasket, layout_onion_city, serial_shops,
+                      nicolae_shop_behind_doors
+[+gen,-vis] Vaults:1: mu_enter_wizlab_3, ontoclasm_vaults_gateway,
+                      nicolae_vaults_little_squares_5,
+                      nicolae_vaults_double_plus_1, nicolae_vaults_angled_halls,
+                      dpeg_vaults_monster_row, nicolae_vaults_rhombus_5,
+                      nicolae_vaults_little_squares_1, v_rooms_4,
+                      ontoclasm_vaults_pinch, v_misc_15,
+                      nicolae_vaults_closet_pinwheel_1, v_rooms_2,
+                      hangedman_vaults_impose, nicolae_vaults_enemy_cabinets,
+                      nicolae_vaults_taking_the_gang_shopping,
+                      layout_vaults_omnibox, serial_shops,
+                      nicolae_shop_dealshenge, nicolae_shop_peninsula, shop,
+                      shop, shop, uniq_norris
+[+gen,-vis] Vaults:2: vaults_dpeg_hooks, v_misc_15,
+                      nicolae_vaults_more_shelving_1,
+                      minmay_crypt_entry_simple_statues, nicolae_vaults_big_ls,
+                      nicolae_vaults_steering_wheel, ontoclasm_vaults_tryst,
+                      hangedman_vaults_river_flow, ontoclasm_vaults_ring_large,
+                      nicolae_vaults_cornered_office, ontoclasm_vaults_chip,
+                      nicolae_vaults_double_plus_1, v_misc_24,
+                      vaults_room_semicircle, ontoclasm_vaults_fault,
+                      layout_vaults_maze
+[+gen,-vis] Vaults:3: nicolae_vaults_circle_grid_a, nooodl_orcs_dogs,
+                      vaults_room_door_hall, nicolae_vaults_ninety_degrees,
+                      nicolae_vaults_tetromino_L_2,
+                      nicolae_vaults_network_quinsquares
+                      [nicolae_vaults_network_quincunx_subvault,
+                      nicolae_vaults_network_quincunx_subvault,
+                      nicolae_vaults_network_quincunx_subvault,
+                      nicolae_vaults_network_quincunx_subvault],
+                      ontoclasm_vaults_twist, nicolae_vaults_closet_pinwheel_6,
+                      nicolae_vaults_apartment_2,
+                      nicolae_vaults_heart-shaped_vault, layout_vaults_big_room
+[+gen,-vis] Vaults:4: hangedman_surveillance_ring, nicolae_vaults_heist,
+                      nicolae_vaults_trapezoid_lopsided_3,
+                      nicolae_vaults_heart-shaped_vault, nicolae_vaults_house_1,
+                      nicolae_vaults_sesquioval_fish, layout_vaults_omnigrid,
+                      enter_trove_2
+[+gen,-vis] Vaults:5
+[+gen,-vis] Crypt:1:  layout_misc_corridors, st_stairs_8, minivault_25,
+                      minivault_5, nicolae_nh_vlads_tower
+[+gen,-vis] Crypt:2:  layout_regular_city, st_stairs_1
+[+gen,-vis] Crypt:3:  grunt_crypt_end_deaths_head
+[+gen,-vis] Tomb:1
+[+gen,-vis] Tomb:2
+[+gen,-vis] Tomb:3
+[+gen,-vis] Depths:1: layout_gridville, abyss_entry, grunt_hell_entry_dis_mu,
+                      minmay_misc_feat_encased, kilobyte_mutagenic_chamber,
+                      uniq_enchantress, uniq_nikola, uniq_saint_roka,
+                      uniq_sojobo
+[+gen,-vis] Depths:2: hangedman_cross_cluster, layout_cave_shapes,
+                      nicolae_abyss_entry_one_way_or_another, hell_entry,
+                      rand_demon_pan_entry_5, nzn_wu_jian_council_hall
+[+gen,-vis] Depths:3: lightli_eight_chambers, layout_gridlike, enter_ziggurat_a,
+                      nicolae_hell_entry_hellmouth_sunbeams,
+                      minmay_misc_feat_ornament, abyss_entry, slow_altar_2,
+                      uniq_vv
+[+gen,-vis] Depths:4: grunt_zot_entry_gee_three, layout_cave_pools,
+                      minmay_misc_feat_iff, hell_entry
+[+gen,-vis] Hell
+[+gen,-vis] Dis:1:    layout_gridville
+[+gen,-vis] Dis:2:    layout_jigsaw
+[+gen,-vis] Dis:3:    hangedman_dis_decor_blocks_talon, layout_gridville
+[+gen,-vis] Dis:4:    layout_gridville, hangedman_dis_decor_tower
+[+gen,-vis] Dis:5:    lightli_tower_of_babel
+[+gen,-vis] Dis:6:    layout_overlapping_boxes
+[+gen,-vis] Dis:7:    dis_st
+[+gen,-vis] Geh:1:    layout_gehenna_pools_triple, lemuel_flamethrower_2
+[+gen,-vis] Geh:2:    layout_gehenna_pools_basic
+[+gen,-vis] Geh:3:    layout_gehenna_pools_basic
+[+gen,-vis] Geh:4:    layout_gehenna_pools_basic
+[+gen,-vis] Geh:5:    layout_gehenna_pools_basic
+[+gen,-vis] Geh:6:    layout_gehenna_pools_box
+[+gen,-vis] Geh:7:    geh_mu
+[+gen,-vis] Coc:1:    layout_cocytus_water_paths
+[+gen,-vis] Coc:2:    layout_ice_bergs
+[+gen,-vis] Coc:3:    nicolae_coc_three_mouths, layout_cocytus_delve
+[+gen,-vis] Coc:4:    layout_ice_bergs
+[+gen,-vis] Coc:5:    layout_cocytus_delve
+[+gen,-vis] Coc:6:    layout_cocytus_water_paths, serial_ice, serial_ice_a
+[+gen,-vis] Coc:7:    coc_grunt_cove [coc_grunt_cove_antaeus,
+                      coc_grunt_cove_fiend, coc_grunt_cove_fiend,
+                      coc_grunt_cove_fiend, coc_grunt_cove_fiend]
+[+gen,-vis] Tar:1:    layout_cathedral_of_symmetry,
+                      nicolae_tar_cuneiform_heaven, nicolae_tar_spectre_spectrum
+[+gen,-vis] Tar:2:    layout_cathedral_of_symmetry, nicolae_tar_cuneiform_to_be
+[+gen,-vis] Tar:3:    layout_cathedral_of_symmetry, nicolae_tar_combbox
+[+gen,-vis] Tar:4:    layout_cathedral_of_symmetry
+[+gen,-vis] Tar:5:    layout_catacombs
+[+gen,-vis] Tar:6:    layout_catacombs, tekkud_tar_snaking_path
+[+gen,-vis] Tar:7:    tar_grunt_cathedral
+[+gen,-vis] Zot:1:    layout_onion, lemuel_baited_zot_trap
+[+gen,-vis] Zot:2:    layout_twisted_circle,
+                      regret_index_zotdec_twisting_globes,
+                      st_single_dragon_hoard_2
+[+gen,-vis] Zot:3:    layout_basic
+[+gen,-vis] Zot:4:    layout_gridlike, lemuel_elevator, uniq_josephina
+[+gen,-vis] Zot:5:    layout_basic
+[-gen]      Abyss:1
+[-gen]      Abyss:2
+[-gen]      Abyss:3
+[-gen]      Abyss:4
+[-gen]      Abyss:5
+[-gen]      Abyss:6
+[-gen]      Abyss:7
+[+gen,-vis] Pan:      [gen], lemuel_hellion_island, layout_onion_city,
+                      pan_blood_fountain_small
+[+gen,-vis] Zig:1:    [gen]
+[+gen,-vis] Zig:2:    [gen]
+[+gen,-vis] Zig:3:    [gen]
+[+gen,-vis] Zig:4:    [gen]
+[+gen,-vis] Zig:5:    [gen], ziggurat_pillar_abc, ziggurat_pillar_abc,
+                      ziggurat_pillar_abc, ziggurat_pillar_abc
+[+gen,-vis] Zig:6:    [gen]
+[+gen,-vis] Zig:7:    [gen]
+[+gen,-vis] Zig:8:    [gen]
+[+gen,-vis] Zig:9:    [gen], ziggurat_pillar_abc, ziggurat_pillar_abc,
+                      ziggurat_pillar_abc, ziggurat_pillar_abc
+[+gen,-vis] Zig:10:   [gen]
+[+gen,-vis] Zig:11:   [gen]
+[+gen,-vis] Zig:12:   [gen]
+[+gen,-vis] Zig:13:   [gen]
+[+gen,-vis] Zig:14:   [gen]
+[+gen,-vis] Zig:15:   [gen]
+[+gen,-vis] Zig:16:   [gen], ziggurat_pillar_centre_c, ziggurat_pillar_centre_c,
+                      ziggurat_pillar_centre_c, ziggurat_pillar_centre_c
+[+gen,-vis] Zig:17:   [gen]
+[+gen,-vis] Zig:18:   [gen], ziggurat_pillar_abc, ziggurat_pillar_abc,
+                      ziggurat_pillar_abc, ziggurat_pillar_abc
+[+gen,-vis] Zig:19:   [gen]
+[+gen,-vis] Zig:20:   [gen]
+[+gen,-vis] Zig:21:   [gen]
+[+gen,-vis] Zig:22:   [gen]
+[+gen,-vis] Zig:23:   [gen]
+[+gen,-vis] Zig:24:   [gen]
+[+gen,-vis] Zig:25:   [gen]
+[+gen,-vis] Zig:26:   [gen]
+[+gen,-vis] Zig:27:   [gen]
+[-gen]      Bazaar
+[-gen]      Trove
+[-gen]      Sewer
+[+gen,-vis] Ossuary:  ossuary_crypta
+[-gen]      Bailey
+[+gen,-vis] IceCv:    ice_cave_small_giant
+[-gen]      Volcano
+[+gen,-vis] WizLab:   wizlab_iskenderun
+[-gen]      Desolation
+[+gen,-vis] Gauntlet: gammafunk_gauntlet_branching
+                      [nicolae_gauntlet_arena_flowing_pool,
+                      nicolae_gauntlet_arena_grate_2,
+                      gammafunk_gauntlet_arena_open,
+                      nicolae_gauntlet_arena_t_cross,
+                      gammafunk_gauntlet_arena_corners,
+                      gammafunk_gauntlet_arena_chambers,
+                      gammafunk_gauntlet_arena_split_diamond,
+                      nicolae_gauntlet_arena_quarters, gauntlet_exit_watery]
+[-gen]      Arena
+

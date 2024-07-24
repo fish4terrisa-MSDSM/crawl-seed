@@ -1,0 +1,155 @@
+ Dungeon Sprint DCSS version 0.31.0 (console) character file.
+
+Game seed: 1
+
+0 test the Charlatan (level 1, 15/15 HPs) *WIZ*
+             Began as a Mummy Artificer on May 10, 2024.
+             Quit the game in the Dungeon (Sprint I: "Red Sonja").
+             The game lasted 00:00:14 (1000 turns).
+
+test the Charlatan (Mummy Artificer)                Turns: 1000, Time: 00:00:15
+
+Health: 15/15      AC:  3    Str: 15    XL:     1   Next: 0%
+Magic:  1/1        EV: 11    Int: 10    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 12    Spells: 0/0 levels left
+
+rFire   x . .        a - +0 club
+rCold   + . .        (no shield)
+rNeg    + + +        b - +0 leather armour
+rPois   ∞            (no helmet)
+rElec   .            (no cloak)
+rCorr   .            (no gloves)
+SInv    .            (no boots)
+Will    .....        (no amulet)
+Stlth   +            (no ring)
+HPRegen 0.22/turn    (no ring)
+MPRegen 0.07/turn
+
+%: no teleportation, faith
+@: no status effects
+A: cold resistance 1, negative energy resistance 3, torment resistance 2, heat
+vulnerability 1, in touch with death 1, no potions, faith
+a: Build terrain, Set terrain to build, Clear terrain to floor
+
+
+You were in the Dungeon.
+You visited 1 branch
+Inventory:
+
+Hand Weapons
+ a - a +0 club (weapon)
+Armour
+ b - a +0 leather armour (worn)
+Wands
+ c - a wand of flame (15) (quivered) {unknown}
+ d - a wand of charming (15) {unknown}
+ e - a wand of iceblast (5) {unknown}
+Scrolls
+ f - a scroll of blinking {unknown}
+
+
+   Skills:
+ + Level 1.0 Fighting
+ + Level 1.5 Armour
+ + Level 0.7 Dodging
+ + Level 0.7 Stealth
+ + Level 2.4 Evocations
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/1)             
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are immune to poison.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You are immune to unholy pain and torment.
+You are vulnerable to heat. (rF-)
+You are in touch with the powers of death.
+You do not drink.
+You have a special connection with the divine. (Faith)
+
+Message History
+
+Done waiting.
+Are you sure you want to abandon this character and quit the game? (Confirm
+with "yes".) 
+
+####
+#@##
+###+
+#..#
+#..#
+#..#
+#..#
+#⌠⌠#
+####
+
+
+There were no monsters in sight!
+
+Vanquished Creatures (others)
+  Sonja (D)
+  A deep troll (D)
+  A lindwurm (D)
+  A merfolk siren (D)
+  A gargoyle (D)
+  An unseen horror (D)
+  4 hornets (D)
+  A glass eye (D)
+  12 hogs (D)
+  2 jellies (D)
+  Ijyb (D)
+26 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D        | test the Mummy Artificer began the quest for the Orb.
+     0 | D        | You started the game in wizard mode.
+     0 | D        | Reached XP level 1. HP: 15/15 MP: 1/1
+    38 | D        | Killed a glass eye
+    78 | D        | Killed a hog
+   107 | D        | Killed a hog
+   112 | D        | Killed a hornet
+   124 | D        | Killed a hog
+   164 | D        | Killed a hog
+   170 | D        | Killed a hog
+   176 | D        | Killed Ijyb
+   178 | D        | Killed a hog
+   210 | D        | Killed a hornet
+   263 | D        | Killed a hog
+   281 | D        | Killed a hog
+   286 | D        | Killed a jelly
+   322 | D        | Killed Sonja
+   375 | D        | Killed a hornet
+   376 | D        | Killed a hog
+   449 | D        | Killed a hornet
+   463 | D        | Killed a jelly
+   478 | D        | Killed a hog
+   594 | D        | Banished a kobold demonologist
+   673 | D        | Killed a merfolk siren
+   715 | D        | Killed an unseen horror
+   745 | D        | Killed a hog
+   815 | D        | Killed a gargoyle
+   831 | D        | Killed a deep troll
+   873 | D        | Killed a lindwurm
+   998 | D        | Killed a hog
+  1000 | D        | Quit the game
+
+Illustrated notes
+
+Levels and vault maps discovered:
+[+gen,+vis] D:        dungeon_sprint_1 [red_sonja_temple_1,
+                      red_sonja_temple_small_1]
+

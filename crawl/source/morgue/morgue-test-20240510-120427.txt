@@ -1,0 +1,292 @@
+ Seeded DCSS version 0.31.0 (console) character file.
+
+Game seed: 1 (custom seed)
+
+574622 test the Trooper (level 27, 166/166 HPs) *WIZ*
+             Began as a Mummy Fighter on May 10, 2024.
+             Quit the game on level 1 of the Abyss.
+             The game lasted 00:00:07 (1000 turns).
+
+test the Trooper (Mummy Fighter)                    Turns: 1000, Time: 00:00:07
+
+Health: 166/166    AC:  6    Str: 19    XL:     27
+Magic:  23/23      EV:  9    Int:  7    God:    No God 0 (0)
+Gold:   0          SH:  4    Dex: 11    Spells: 26/26 levels left
+
+rFire   x . .        a - +0 flail
+rCold   + . .        c - +0 buckler
+rNeg    + + +        b - +0 scale mail
+rPois   ∞            (no helmet)
+rElec   .            (no cloak)
+rCorr   .            (no gloves)
+SInv    .            (no boots)
+Will    +++..        (no amulet)
+Stlth                (no ring)
+HPRegen 0.47/turn    (no ring)
+MPRegen 0.18/turn
+
+%: faith
+@: no status effects
+A: cold resistance 1, negative energy resistance 3, torment resistance 2, heat
+vulnerability 1, in touch with death 2, no potions, faith
+a: Build terrain, Set terrain to build, Clear terrain to floor
+
+
+You were on level 1 of the Abyss.
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+You visited the Abyss 1 time.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 flail (weapon)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 buckler (worn)
+
+
+   Skills:
+ + Level 3.0 Fighting
+ + Level 1.5 Maces & Flails
+ + Level 2.4 Armour
+ + Level 2.4 Shields
+
+
+You had 26 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are immune to poison.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You are immune to unholy pain and torment.
+You are vulnerable to heat. (rF-)
+You are strongly in touch with the powers of death.
+You do not drink.
+You have a special connection with the divine. (Faith)
+
+Message History
+
+> 
+Enter Wizard Command (? - help): 
+You feel a rush of antiknowledge.
+Unknown command.
+Enter Wizard Command (? - help): 
+Enter new experience level: 
+Experience level set to 27.
+Enter Wizard Command (? - help): 
+To return, you must find a gate leading back.
+Killing monsters will force the Abyss to allow you passage.
+This branch contains the abyssal rune of Zot.
+Enter Wizard Command (? - help): 
+What monsters to dismiss (ENTER for all, "harmful", "mobile", "los" or a regex,
+"keepitem" to leave items)? 
+Dismissed 0 monsters.
+
+####
+#@.#
+#..#
+##.#
+  ..
+  ##.
+    ..
+     ..
+     ...
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | test the Mummy Fighter began the quest for the Orb.
+     0 | D:1      | You started the game in wizard mode.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 1/1
+     0 | D:1      | Reached XP level 2. HP: 24/24 MP: 2/2
+     0 | D:1      | Reached XP level 3. HP: 29/29 MP: 3/3
+     0 | D:1      | Reached XP level 4. HP: 35/35 MP: 4/4
+     0 | D:1      | Reached XP level 5. HP: 41/41 MP: 5/5
+     0 | D:1      | Reached XP level 6. HP: 47/47 MP: 6/6
+     0 | D:1      | Reached XP level 7. HP: 52/52 MP: 7/7
+     0 | D:1      | Reached XP level 8. HP: 58/58 MP: 8/8
+     0 | D:1      | Reached XP level 9. HP: 63/63 MP: 9/9
+     0 | D:1      | Reached XP level 10. HP: 70/70 MP: 10/10
+     0 | D:1      | Reached XP level 11. HP: 75/75 MP: 11/11
+     0 | D:1      | Reached XP level 12. HP: 81/81 MP: 12/12
+     0 | D:1      | Gained mutation: You are strongly in touch with the powers
+                  | of death. [Mummy growth]
+     0 | D:1      | Reached XP level 13. HP: 86/86 MP: 13/13
+     0 | D:1      | Reached XP level 14. HP: 93/93 MP: 14/14
+     0 | D:1      | Reached XP level 15. HP: 98/98 MP: 15/15
+     0 | D:1      | Reached XP level 16. HP: 104/104 MP: 16/16
+     0 | D:1      | Reached XP level 17. HP: 109/109 MP: 17/17
+     0 | D:1      | Reached XP level 18. HP: 115/115 MP: 18/18
+     0 | D:1      | Reached XP level 19. HP: 121/121 MP: 19/19
+     0 | D:1      | Reached XP level 20. HP: 127/127 MP: 20/20
+     0 | D:1      | Reached XP level 21. HP: 132/132 MP: 21/21
+     0 | D:1      | Reached XP level 22. HP: 138/138 MP: 22/22
+     0 | D:1      | Reached XP level 23. HP: 143/143 MP: 23/23
+     0 | D:1      | Reached XP level 24. HP: 150/150 MP: 23/23
+     0 | D:1      | Reached XP level 25. HP: 155/155 MP: 23/23
+     0 | D:1      | Reached XP level 26. HP: 161/161 MP: 23/23
+     0 | D:1      | Reached XP level 27. HP: 166/166 MP: 23/23
+     0 | Abyss:1  | Cast into level 1 of the Abyss (wizard command)
+  1000 | Abyss:1  | Quit the game
+
+Illustrated notes
+
+Levels and vault maps discovered:
+[+gen,+vis] D:1:      zelgadis_glass_arrival_small, layout_loops_cross
+[+gen,-vis] D:2
+[+gen,-vis] D:3
+[+gen,-vis] D:4
+[+gen,-vis] D:5
+[+gen,-vis] D:6
+[+gen,-vis] D:7
+[+gen,-vis] D:8
+[+gen,-vis] D:9
+[+gen,-vis] D:10
+[+gen,-vis] D:11
+[+gen,-vis] D:12
+[+gen,-vis] D:13
+[+gen,-vis] D:14
+[+gen,-vis] D:15
+[+gen,-vis] Temple:   nicolae_temple_bog_church
+[+gen,-vis] Lair:1
+[+gen,-vis] Lair:2
+[+gen,-vis] Lair:3
+[+gen,-vis] Lair:4
+[+gen,-vis] Lair:5
+[+gen,-vis] Swamp:1
+[+gen,-vis] Swamp:2
+[+gen,-vis] Swamp:3
+[+gen,-vis] Swamp:4
+[+gen,-vis] Shoals:1
+[+gen,-vis] Shoals:2
+[+gen,-vis] Shoals:3
+[+gen,-vis] Shoals:4
+[+gen,-vis] Snake:1
+[+gen,-vis] Snake:2
+[+gen,-vis] Snake:3
+[+gen,-vis] Snake:4
+[+gen,-vis] Spider:1
+[+gen,-vis] Spider:2
+[+gen,-vis] Spider:3
+[+gen,-vis] Spider:4
+[+gen,-vis] Slime:1
+[+gen,-vis] Slime:2
+[+gen,-vis] Slime:3
+[+gen,-vis] Slime:4
+[+gen,-vis] Slime:5
+[+gen,-vis] Orc:1
+[+gen,-vis] Orc:2
+[+gen,-vis] Elf:1
+[+gen,-vis] Elf:2
+[+gen,-vis] Elf:3
+[+gen,-vis] Vaults:1
+[+gen,-vis] Vaults:2
+[+gen,-vis] Vaults:3
+[+gen,-vis] Vaults:4
+[+gen,-vis] Vaults:5
+[+gen,-vis] Crypt:1
+[+gen,-vis] Crypt:2
+[+gen,-vis] Crypt:3
+[+gen,-vis] Tomb:1
+[+gen,-vis] Tomb:2
+[+gen,-vis] Tomb:3
+[+gen,-vis] Depths:1
+[+gen,-vis] Depths:2
+[+gen,-vis] Depths:3
+[+gen,-vis] Depths:4
+[+gen,-vis] Hell
+[+gen,-vis] Dis:1
+[+gen,-vis] Dis:2
+[+gen,-vis] Dis:3
+[+gen,-vis] Dis:4
+[+gen,-vis] Dis:5
+[+gen,-vis] Dis:6
+[+gen,-vis] Dis:7
+[+gen,-vis] Geh:1
+[+gen,-vis] Geh:2
+[+gen,-vis] Geh:3
+[+gen,-vis] Geh:4
+[+gen,-vis] Geh:5
+[+gen,-vis] Geh:6
+[+gen,-vis] Geh:7
+[+gen,-vis] Coc:1
+[+gen,-vis] Coc:2
+[+gen,-vis] Coc:3
+[+gen,-vis] Coc:4
+[+gen,-vis] Coc:5
+[+gen,-vis] Coc:6
+[+gen,-vis] Coc:7
+[+gen,-vis] Tar:1
+[+gen,-vis] Tar:2
+[+gen,-vis] Tar:3
+[+gen,-vis] Tar:4
+[+gen,-vis] Tar:5
+[+gen,-vis] Tar:6
+[+gen,-vis] Tar:7
+[+gen,-vis] Zot:1
+[+gen,-vis] Zot:2
+[+gen,-vis] Zot:3
+[+gen,-vis] Zot:4
+[+gen,-vis] Zot:5
+[+gen,+vis] Abyss:1:  base: D:1, [gen]
+[+gen,-vis] Abyss:2
+[+gen,-vis] Abyss:3
+[+gen,-vis] Abyss:4
+[+gen,-vis] Abyss:5
+[+gen,-vis] Abyss:6
+[+gen,-vis] Abyss:7
+[+gen,-vis] Pan
+[+gen,-vis] Zig:1
+[+gen,-vis] Zig:2
+[+gen,-vis] Zig:3
+[+gen,-vis] Zig:4
+[+gen,-vis] Zig:5
+[+gen,-vis] Zig:6
+[+gen,-vis] Zig:7
+[+gen,-vis] Zig:8
+[+gen,-vis] Zig:9
+[+gen,-vis] Zig:10
+[+gen,-vis] Zig:11
+[+gen,-vis] Zig:12
+[+gen,-vis] Zig:13
+[+gen,-vis] Zig:14
+[+gen,-vis] Zig:15
+[+gen,-vis] Zig:16
+[+gen,-vis] Zig:17
+[+gen,-vis] Zig:18
+[+gen,-vis] Zig:19
+[+gen,-vis] Zig:20
+[+gen,-vis] Zig:21
+[+gen,-vis] Zig:22
+[+gen,-vis] Zig:23
+[+gen,-vis] Zig:24
+[+gen,-vis] Zig:25
+[+gen,-vis] Zig:26
+[+gen,-vis] Zig:27
+[+gen,-vis] Bazaar
+[+gen,-vis] Trove
+[+gen,-vis] Sewer
+[+gen,-vis] Ossuary
+[+gen,-vis] Bailey
+[+gen,-vis] IceCv
+[+gen,-vis] Volcano
+[+gen,-vis] WizLab
+[+gen,-vis] Desolation
+[+gen,-vis] Gauntlet
+[+gen,-vis] Arena
+
