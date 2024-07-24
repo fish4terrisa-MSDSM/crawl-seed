@@ -1,8 +1,12 @@
 name: index_seed
-on:
-  # Automatically run at the end of every 10 minutes.
-  schedule:
-    - cron: '*/10 * * * *'
+on: 
+  [push]
+  workflow_dispatch:
+  check_suite:
+    types: [completed]
+  check_run:
+    types: [completed]
+
 jobs:
   build:
     runs-on: ubuntu-latest
