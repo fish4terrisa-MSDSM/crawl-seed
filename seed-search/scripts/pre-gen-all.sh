@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 INDEX=`cat $GITHUB_WORKSPACE/index`
 START=$((INDEX + 1))
-END=$((START + 9))
+END=$((START + 999))
 echo ${END} > $GITHUB_WORKSPACE/index
 #set -x
 if [ -z "$CRAWL_PATH" ] ; then
@@ -22,7 +22,7 @@ if (grep -q "MP+" $cache && ( grep -q "Int+6" $cache || grep -q "Int+7" $cache |
 	echo "meet need"
 else
 	echo "no"
-	#rm $cache
+	rm $cache
 fi
 ((SEED++))
 done

@@ -32,4 +32,7 @@ jobs:
           #git push
           #echo done
       - uses: EndBug/add-and-commit@v9
+        with:
+          default_author: user_info
+          message: "updated new jsons"
 
