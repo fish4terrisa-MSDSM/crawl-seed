@@ -7,24 +7,24 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-      steps:
-        - uses: actions/checkout@v4
+    steps:
+      - uses: actions/checkout@v4
 
-        - name: Install crawl
-          run: |
-            sudo apt update
-            sudo apt -y install crawl
-        - name: Start Index
-          run: |
-            chmod 777 $GITHUB_WORKSPACE/crawl/source/crawl
-            cd $GITHUB_WORKSPACE/seed-search
-            $GITHUB_WORKSPACE/crawl/source/crawl -builddb 
-            ./scripts/pre-gen-all.sh
-        - run: |
+      - name: Install crawl
+        run: |
+          sudo apt update
+          sudo apt -y install crawl
+      - name: Start Index
+        run: |
+          chmod 777 $GITHUB_WORKSPACE/crawl/source/crawl
+          cd $GITHUB_WORKSPACE/seed-search
+          $GITHUB_WORKSPACE/crawl/source/crawl -builddb 
+          ./scripts/pre-gen-all.sh
+      - run: |
           # Note: the following account information will not work on GHES
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add .
-            git commit -m "generated"
-            git push
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "generated"
+          git push
 
