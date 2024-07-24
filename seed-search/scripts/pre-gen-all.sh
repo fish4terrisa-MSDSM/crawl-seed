@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 INDEX=`cat $GITHUB_WORKSPACE/index`
 START=$((INDEX + 1))
-END=$((START + 9999))
+END=$((START + 9))
 echo ${END} > $GITHUB_WORKSPACE/index
 #set -x
 if [ -z "$CRAWL_PATH" ] ; then
