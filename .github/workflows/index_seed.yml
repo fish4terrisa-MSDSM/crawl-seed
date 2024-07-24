@@ -19,9 +19,9 @@ jobs:
       - name: Start Index
         run: |
           sudo ln -s /usr/lib/x86_64-linux-gnu/liblua5.1.so.0 /usr/lib/liblua5.1.so.5.1
-          chmod 777 $GITHUB_WORKSPACE/crawl/source/crawl
+          chmod 777 $GITHUB_WORKSPACE/crawl/crawl-ref/source/crawl
           cd $GITHUB_WORKSPACE/seed-search
-          $GITHUB_WORKSPACE/crawl/source/crawl -builddb 
+          $GITHUB_WORKSPACE/crawl/crawl-ref/source/crawl -builddb 
           ./scripts/pre-gen-all.sh
       - run: |
           # Note: the following account information will not work on GHES
