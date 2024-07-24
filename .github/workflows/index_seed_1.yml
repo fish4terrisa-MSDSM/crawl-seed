@@ -1,0 +1,41 @@
+name: index_seed_1
+on: 
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["index_seed"]
+    types:
+      - completed
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 720
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install crawl
+        run: |
+          sudo apt update
+          sudo apt -y install crawl
+          #- name: Setup tmate session
+          #uses: mxschmitt/action-tmate@v3
+      - name: Start Index
+        run: |
+          #sudo ln -s /usr/lib/x86_64-linux-gnu/liblua5.1.so.0 /usr/lib/liblua5.1.so.5.1
+          chmod 777 $GITHUB_WORKSPACE/crawl/crawl-ref/source/crawl
+          cd $GITHUB_WORKSPACE/seed-search
+          $GITHUB_WORKSPACE/crawl/crawl-ref/source/crawl -builddb 
+          ./scripts/pre-gen-all.sh
+          #- run: |
+          # Note: the following account information will not work on GHES
+          #git config user.name "github-actions[bot]"
+          #git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          #git add .
+          #git commit -m "generated"
+          #git push
+          #echo done
+      - uses: EndBug/add-and-commit@v9
+        with:
+          default_author: user_info
+          message: "updated new jsons"
+
