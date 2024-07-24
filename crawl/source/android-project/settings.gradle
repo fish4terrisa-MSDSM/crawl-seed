@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "Dungeon Crawl Stone Soup"
