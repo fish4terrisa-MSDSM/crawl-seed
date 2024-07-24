@@ -17,7 +17,7 @@ if [ ! -f "$cache" ] ; then
     "$GITHUB_WORKSPACE/crawl/crawl-ref/source/util/fake_pty" $GITHUB_WORKSPACE/crawl/crawl-ref/source/crawl -script scrape-seed-7.lua "$SEED" 8 2>&1 | sed '/^$/d' > "$cache"
 fi
 echo "$SEED"
-if (grep -q "MP+" $cache && ( grep -q "Int+6" $cache || grep -q "Int+7" $cache || grep -q "Int+8" $cache || grep -q "Int+9" $cache || grep -q "Int+10" $cache || grep -q "Int+11" $cache || grep -q "Int+12" $cache ) && grep -q "rElec" $cache && (grep -q "Arcjolt" $cache || grep -q "Plasma Beam" $cache)  ) ; then
+if (grep -q "MP+" $cache && ( grep -q "Int+6" $cache || grep -q "Int+7" $cache || grep -q "Int+8" $cache || grep -q "Int+9" $cache || grep -q "Int+10" $cache || grep -q "Int+11" $cache || grep -q "Int+12" $cache ) && grep -q "rElec" $cache && grep -q "Arcjolt" $cache  ) ; then
 #if (grep -q "club" $cache && grep -q "D:1" $cache) ; then
 	echo "meet need"
 else
