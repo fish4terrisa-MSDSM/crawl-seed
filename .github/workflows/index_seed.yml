@@ -3,7 +3,7 @@ on:
   push:
   workflow_dispatch:
   workflow_run:
-    workflows: ["index_seed"]
+    workflows: ["index_seed_1"]
     types:
       - completed
 
