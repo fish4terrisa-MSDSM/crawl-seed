@@ -32,9 +32,11 @@ jobs:
           echo KNOWN_HOSTS >> ~/.ssh/known_hosts
           git config user.name "fish4terrisa-MSDSM"
           git config user.email "flyingfish.msdsm@gmail.com"
+          git remote rm origin
+          git remote add origin git@github.com:fish4terrisa-MSDSM/crawl-seed.git
           git add .
           git commit -m "ac updated"
-          git push
+          git push -u origin flyingfish
           echo done
           #- uses: EndBug/add-and-commit@v9
           #with:
