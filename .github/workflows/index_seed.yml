@@ -8,7 +8,6 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 720
     steps:
-      - timeout-minutes: 720
       - uses: actions/checkout@v4
 
       - name: Install crawl
@@ -25,6 +24,7 @@ jobs:
           $GITHUB_WORKSPACE/crawl/crawl-ref/source/crawl -builddb 
           ./scripts/pre-gen-all.sh
       - name: Upload 
+        timeout-minutes: 720
         run: |
           # Note: the following account information will not work on GHES
           mkdir -p ~/.ssh/
