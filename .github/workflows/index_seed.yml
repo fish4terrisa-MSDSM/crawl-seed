@@ -8,6 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 720
     steps:
+      timeout-minutes: 720
       - uses: actions/checkout@v4
 
       - name: Install crawl
