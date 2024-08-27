@@ -1,0 +1,277 @@
+{"name": "scroll of fog", "subtype": "fog", "level": "D:1", "class": "Scrolls", "basename": "scroll", "artefact": false}
+{"accuracy": 6, "class": "Hand Weapons", "artefact": false, "level": "D:1", "name": "+0 dagger", "plus": 0, "subtype": "dagger", "damage": 4, "basename": "dagger", "delay": 10, "weap_skill": "Short Blades"}
+{"name": "11 gold pieces", "subtype": "gold", "level": "D:1", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"name": "2 potions of lignification", "subtype": "lignification", "level": "D:1", "class": "Potions", "basename": "potion", "artefact": false}
+{"name": "potion of berserk rage", "subtype": "berserk rage", "level": "D:1", "class": "Potions", "basename": "potion", "artefact": false}
+{"accuracy": 2, "class": "Hand Weapons", "artefact": false, "level": "D:1", "name": "+0 whip", "plus": 0, "subtype": "whip", "damage": 6, "basename": "whip", "delay": 11, "weap_skill": "Maces & Flails"}
+{"name": "potion of resistance", "subtype": "resistance", "level": "D:1", "class": "Potions", "basename": "potion", "artefact": false}
+{"name": "scroll of immolation", "subtype": "immolation", "level": "D:1", "class": "Scrolls", "basename": "scroll", "artefact": false}
+{"name": "16 gold pieces", "subtype": "gold", "level": "D:1", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"name": "scroll of noise", "subtype": "noise", "level": "D:1", "class": "Scrolls", "basename": "scroll", "artefact": false}
+{"accuracy": 6, "class": "Hand Weapons", "artefact": false, "level": "D:1", "name": "+0 dagger", "plus": 0, "subtype": "dagger", "damage": 4, "basename": "dagger", "delay": 10, "weap_skill": "Short Blades"}
+{"accuracy": 6, "class": "Hand Weapons", "artefact": false, "level": "D:1", "name": "+0 dagger", "plus": 0, "subtype": "dagger", "damage": 4, "basename": "dagger", "delay": 10, "weap_skill": "Short Blades"}
+{"subtype": "dart", "class": "Missiles", "artefact": false, "name": "6 curare-tipped darts", "level": "D:1", "ego": "curare", "basename": "dart", "weap_skill": "Throwing", "damage": 0}
+{"accuracy": 3, "class": "Hand Weapons", "artefact": false, "level": "D:1", "name": "+0 club", "plus": 0, "subtype": "club", "damage": 5, "basename": "club", "delay": 13, "weap_skill": "Maces & Flails"}
+{"name": "17 gold pieces", "subtype": "gold", "level": "D:1", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"accuracy": 6, "class": "Hand Weapons", "artefact": false, "level": "D:1", "name": "+0 dagger", "plus": 0, "subtype": "dagger", "damage": 4, "basename": "dagger", "delay": 10, "weap_skill": "Short Blades"}
+{"level": "D:1", "basename": "stone", "name": "3 stones", "subtype": "stone", "weap_skill": "Throwing", "class": "Missiles", "damage": 2, "artefact": false}
+{"accuracy": 3, "class": "Hand Weapons", "artefact": false, "level": "D:1", "name": "+0 club", "plus": 0, "subtype": "club", "damage": 5, "basename": "club", "delay": 13, "weap_skill": "Maces & Flails"}
+{"level": "D:1", "basename": "stone", "name": "stone", "subtype": "stone", "weap_skill": "Throwing", "class": "Missiles", "damage": 2, "artefact": false}
+{"accuracy": 1, "class": "Hand Weapons", "artefact": false, "level": "D:1", "name": "+0 trident", "plus": 0, "subtype": "trident", "damage": 9, "basename": "trident", "delay": 13, "weap_skill": "Polearms"}
+{"name": "scroll of identify", "subtype": "identify", "level": "D:2", "class": "Scrolls", "basename": "scroll", "artefact": false}
+{"accuracy": 3, "class": "Hand Weapons", "artefact": false, "level": "D:2", "name": "+0 club", "plus": 0, "subtype": "club", "damage": 5, "basename": "club", "delay": 13, "weap_skill": "Maces & Flails"}
+{"name": "scroll of summoning", "subtype": "summoning", "level": "D:2", "class": "Scrolls", "basename": "scroll", "artefact": false}
+{"accuracy": 6, "class": "Hand Weapons", "level": "D:2", "artefact": false, "name": "+2 dagger of speed", "subtype": "dagger", "plus": 2, "damage": 4, "ego": "speed", "basename": "dagger", "delay": 10, "weap_skill": "Short Blades"}
+{"subtype": "dart", "class": "Missiles", "artefact": false, "name": "6 poisoned darts", "level": "D:2", "ego": "poison", "basename": "dart", "weap_skill": "Throwing", "damage": 0}
+{"level": "D:2", "basename": "stone", "name": "3 stones", "subtype": "stone", "weap_skill": "Throwing", "class": "Missiles", "damage": 2, "artefact": false}
+{"name": "10 gold pieces", "subtype": "gold", "level": "D:2", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"name": "scroll of identify", "subtype": "identify", "level": "D:2", "class": "Scrolls", "basename": "scroll", "artefact": false}
+{"name": "5 gold pieces", "subtype": "gold", "level": "D:2", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"name": "potion of berserk rage", "subtype": "berserk rage", "level": "D:2", "class": "Potions", "basename": "potion", "artefact": false}
+{"name": "7 gold pieces", "subtype": "gold", "level": "D:2", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"accuracy": 2, "class": "Hand Weapons", "artefact": false, "level": "D:2", "name": "+0 whip", "plus": 0, "subtype": "whip", "damage": 6, "basename": "whip", "delay": 11, "weap_skill": "Maces & Flails"}
+{"name": "8 gold pieces", "subtype": "gold", "level": "D:2", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"name": "scroll of teleportation", "subtype": "teleportation", "level": "D:2", "class": "Scrolls", "basename": "scroll", "artefact": false}
+{"subtype": "gloves", "class": "Armour", "artefact": false, "ac": 1, "plus": 0, "level": "D:2", "basename": "pair of gloves", "name": "+0 pair of gloves", "encumbrance": 0}
+{"name": "9 gold pieces", "subtype": "gold", "level": "D:2", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"name": "6 gold pieces", "subtype": "gold", "level": "D:2", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"name": "potion of curing", "subtype": "curing", "level": "D:2", "class": "Potions", "basename": "potion", "artefact": false}
+{"accuracy": 6, "class": "Hand Weapons", "artefact": false, "level": "D:2", "name": "+0 dagger", "plus": 0, "subtype": "dagger", "damage": 4, "basename": "dagger", "delay": 10, "weap_skill": "Short Blades"}
+{"accuracy": 1, "class": "Hand Weapons", "artefact": false, "level": "D:2", "name": "+0 trident", "plus": 0, "subtype": "trident", "damage": 9, "basename": "trident", "delay": 13, "weap_skill": "Polearms"}
+{"name": "scroll of vulnerability", "subtype": "vulnerability", "level": "D:2", "class": "Scrolls", "basename": "scroll", "artefact": false}
+{"level": "D:2", "basename": "stone", "name": "2 stones", "subtype": "stone", "weap_skill": "Throwing", "class": "Missiles", "damage": 2, "artefact": false}
+{"name": "scroll of fear", "subtype": "fear", "level": "D:2", "class": "Scrolls", "basename": "scroll", "artefact": false}
+{"name": "flux talisman", "subtype": "flux talisman", "level": "D:2", "class": "Talismans", "basename": "flux talisman", "artefact": false}
+{"name": "potion of berserk rage", "subtype": "berserk rage", "level": "D:2", "class": "Potions", "basename": "potion", "artefact": false}
+{"name": "16 gold pieces", "subtype": "gold", "level": "D:2", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"name": "14 gold pieces", "subtype": "gold", "level": "D:2", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"level": "D:3", "basename": "stone", "name": "6 stones", "subtype": "stone", "weap_skill": "Throwing", "class": "Missiles", "damage": 2, "artefact": false}
+{"accuracy": 4, "class": "Hand Weapons", "artefact": false, "level": "D:3", "name": "+0 short sword", "plus": 0, "subtype": "short sword", "damage": 5, "basename": "short sword", "delay": 10, "weap_skill": "Short Blades"}
+{"level": "D:3", "basename": "stone", "name": "3 stones", "subtype": "stone", "weap_skill": "Throwing", "class": "Missiles", "damage": 2, "artefact": false}
+{"accuracy": 3, "class": "Hand Weapons", "artefact": false, "level": "D:3", "name": "+0 club", "plus": 0, "subtype": "club", "damage": 5, "basename": "club", "delay": 13, "weap_skill": "Maces & Flails"}
+{"accuracy": 3, "class": "Hand Weapons", "level": "D:3", "artefact": false, "name": "+1 mace of holy wrath", "subtype": "mace", "plus": 1, "damage": 8, "ego": "holy wrath", "basename": "mace", "delay": 14, "weap_skill": "Maces & Flails"}
+{"accuracy": -2, "class": "Hand Weapons", "artefact": false, "level": "D:3", "name": "+0 morningstar", "plus": 0, "subtype": "morningstar", "damage": 13, "basename": "morningstar", "delay": 15, "weap_skill": "Maces & Flails"}
+{"name": "scroll of identify", "subtype": "identify", "level": "D:3", "class": "Scrolls", "basename": "scroll", "artefact": false}
+{"accuracy": 3, "class": "Hand Weapons", "artefact": false, "level": "D:3", "name": "+0 club", "plus": 0, "subtype": "club", "damage": 5, "basename": "club", "delay": 13, "weap_skill": "Maces & Flails"}
+{"accuracy": 3, "class": "Hand Weapons", "artefact": false, "level": "D:3", "name": "+0 club", "plus": 0, "subtype": "club", "damage": 5, "basename": "club", "delay": 13, "weap_skill": "Maces & Flails"}
+{"accuracy": 4, "class": "Hand Weapons", "artefact": false, "level": "D:3", "name": "+0 short sword", "plus": 0, "subtype": "short sword", "damage": 5, "basename": "short sword", "delay": 10, "weap_skill": "Short Blades"}
+{"subtype": "body", "class": "Armour", "artefact": false, "ac": 2, "plus": 0, "level": "D:3", "basename": "animal skin", "name": "+0 animal skin", "encumbrance": 0}
+{"subtype": "helmet", "class": "Armour", "artefact": false, "ac": 1, "plus": 0, "level": "D:3", "basename": "helmet", "name": "+0 helmet", "encumbrance": 0}
+{"accuracy": 3, "class": "Hand Weapons", "artefact": false, "level": "D:3", "name": "+0 club", "plus": 0, "subtype": "club", "damage": 5, "basename": "club", "delay": 13, "weap_skill": "Maces & Flails"}
+{"accuracy": 4, "class": "Hand Weapons", "level": "D:3", "artefact": false, "name": "+2 short sword of venom", "subtype": "short sword", "plus": 2, "damage": 5, "ego": "venom", "basename": "short sword", "delay": 10, "weap_skill": "Short Blades"}
+{"accuracy": 4, "class": "Hand Weapons", "artefact": false, "level": "D:3", "name": "+0 short sword", "plus": 0, "subtype": "short sword", "damage": 5, "basename": "short sword", "delay": 10, "weap_skill": "Short Blades"}
+{"level": "D:3", "basename": "boomerang", "name": "2 boomerangs", "subtype": "boomerang", "weap_skill": "Throwing", "class": "Missiles", "damage": 6, "artefact": false}
+{"accuracy": 6, "class": "Hand Weapons", "artefact": false, "level": "D:3", "name": "+0 dagger", "plus": 0, "subtype": "dagger", "damage": 4, "basename": "dagger", "delay": 10, "weap_skill": "Short Blades"}
+{"accuracy": 6, "class": "Hand Weapons", "artefact": false, "level": "D:3", "name": "+0 dagger", "plus": 0, "subtype": "dagger", "damage": 4, "basename": "dagger", "delay": 10, "weap_skill": "Short Blades"}
+{"subtype": "body", "class": "Armour", "artefact": false, "ac": 2, "plus": 0, "level": "D:3", "basename": "robe", "name": "+0 robe", "encumbrance": 0}
+{"accuracy": 1, "class": "Hand Weapons", "artefact": false, "level": "D:3", "name": "+0 trident", "plus": 0, "subtype": "trident", "damage": 9, "basename": "trident", "delay": 13, "weap_skill": "Polearms"}
+{"accuracy": 6, "class": "Hand Weapons", "artefact": false, "level": "D:3", "name": "+0 dagger", "plus": 0, "subtype": "dagger", "damage": 4, "basename": "dagger", "delay": 10, "weap_skill": "Short Blades"}
+{"accuracy": 6, "class": "Hand Weapons", "level": "D:3", "artefact": false, "name": "+2 dagger of venom", "subtype": "dagger", "plus": 2, "damage": 4, "ego": "venom", "basename": "dagger", "delay": 10, "weap_skill": "Short Blades"}
+{"accuracy": 6, "class": "Hand Weapons", "artefact": false, "level": "D:3", "name": "+0 dagger", "plus": 0, "subtype": "dagger", "damage": 4, "basename": "dagger", "delay": 10, "weap_skill": "Short Blades"}
+{"accuracy": 3, "class": "Hand Weapons", "artefact": false, "level": "D:3", "name": "+0 club", "plus": 0, "subtype": "club", "damage": 5, "basename": "club", "delay": 13, "weap_skill": "Maces & Flails"}
+{"name": "potion of ambrosia", "subtype": "ambrosia", "level": "D:3", "class": "Potions", "basename": "potion", "artefact": false}
+{"accuracy": 6, "class": "Hand Weapons", "artefact": false, "level": "D:3", "name": "+0 dagger", "plus": 0, "subtype": "dagger", "damage": 4, "basename": "dagger", "delay": 10, "weap_skill": "Short Blades"}
+{"name": "6 gold pieces", "subtype": "gold", "level": "D:3", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"name": "human skeleton", "subtype": "corpse", "level": "D:3", "class": "Carrion", "basename": "human skeleton", "artefact": false}
+{"name": "potion of degeneration", "subtype": "degeneration", "level": "D:3", "class": "Potions", "basename": "potion", "artefact": false}
+{"name": "human skeleton", "subtype": "corpse", "level": "D:3", "class": "Carrion", "basename": "human skeleton", "artefact": false}
+{"name": "human corpse", "subtype": "corpse", "level": "D:3", "class": "Carrion", "basename": "human corpse", "artefact": false}
+{"name": "human corpse", "subtype": "corpse", "level": "D:3", "class": "Carrion", "basename": "human corpse", "artefact": false}
+{"name": "9 gold pieces", "subtype": "gold", "level": "D:3", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"name": "9 gold pieces", "subtype": "gold", "level": "D:3", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"name": "potion of curing", "subtype": "curing", "level": "D:3", "class": "Potions", "basename": "potion", "artefact": false}
+{"name": "13 gold pieces", "subtype": "gold", "level": "D:3", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"name": "human skeleton", "subtype": "corpse", "level": "D:3", "class": "Carrion", "basename": "human skeleton", "artefact": false}
+{"name": "human skeleton", "subtype": "corpse", "level": "D:3", "class": "Carrion", "basename": "human skeleton", "artefact": false}
+{"accuracy": 2, "class": "Hand Weapons", "artefact": false, "level": "D:3", "name": "+0 whip", "plus": 0, "subtype": "whip", "damage": 6, "basename": "whip", "delay": 11, "weap_skill": "Maces & Flails"}
+{"accuracy": 4, "class": "Hand Weapons", "artefact": false, "level": "D:3", "name": "+0 spear", "plus": 0, "subtype": "spear", "damage": 6, "basename": "spear", "delay": 11, "weap_skill": "Polearms"}
+{"name": "maw talisman", "subtype": "maw talisman", "level": "D:3", "class": "Talismans", "basename": "maw talisman", "artefact": false}
+{"level": "D:3", "name": "wand of flame (17)", "subtype": "flame", "basename": "wand", "class": "Wands", "plus": 17, "artefact": false}
+{"accuracy": 3, "class": "Hand Weapons", "artefact": false, "level": "D:3", "name": "+0 club", "plus": 0, "subtype": "club", "damage": 5, "basename": "club", "delay": 13, "weap_skill": "Maces & Flails"}
+{"accuracy": 6, "class": "Hand Weapons", "artefact": false, "level": "D:3", "name": "+0 dagger", "plus": 0, "subtype": "dagger", "damage": 4, "basename": "dagger", "delay": 10, "weap_skill": "Short Blades"}
+{"level": "D:3", "basename": "stone", "name": "3 stones", "subtype": "stone", "weap_skill": "Throwing", "class": "Missiles", "damage": 2, "artefact": false}
+{"name": "2 potions of attraction", "subtype": "attraction", "level": "D:3", "class": "Potions", "basename": "potion", "artefact": false}
+{"accuracy": 3, "class": "Hand Weapons", "artefact": false, "level": "D:3", "name": "+0 mace", "plus": 0, "subtype": "mace", "damage": 8, "basename": "mace", "delay": 14, "weap_skill": "Maces & Flails"}
+{"accuracy": 0, "class": "Hand Weapons", "artefact": false, "level": "D:3", "name": "+0 flail", "plus": 0, "subtype": "flail", "damage": 10, "basename": "flail", "delay": 14, "weap_skill": "Maces & Flails"}
+{"level": "D:3", "basename": "stone", "name": "5 stones", "subtype": "stone", "weap_skill": "Throwing", "class": "Missiles", "damage": 2, "artefact": false}
+{"subtype": "dart", "class": "Missiles", "artefact": false, "name": "6 darts of dispersal", "level": "D:3", "ego": "dispersal", "basename": "dart", "weap_skill": "Throwing", "damage": 0}
+{"accuracy": 0, "class": "Hand Weapons", "artefact": false, "level": "D:3", "name": "+0 sling", "plus": 0, "subtype": "sling", "damage": 7, "basename": "sling", "delay": 14, "weap_skill": "Ranged Weapons"}
+{"level": "D:4", "basename": "stone", "name": "stone", "subtype": "stone", "weap_skill": "Throwing", "class": "Missiles", "damage": 2, "artefact": false}
+{"level": "D:4", "name": "Great Wizards, Vol. II", "subtype": "Great Wizards, Vol. II", "basename": "book", "spells": {"1": "Alistair's Intoxication", "2": "Borgnjor's Vile Clutch", "3": "Eringya's Noxious Bog"}, "class": "Books", "artefact": false}
+{"level": "D:4", "basename": "boomerang", "name": "4 boomerangs", "subtype": "boomerang", "weap_skill": "Throwing", "class": "Missiles", "damage": 6, "artefact": false}
+{"name": "scroll of revelation", "subtype": "revelation", "level": "D:4", "class": "Scrolls", "basename": "scroll", "artefact": false}
+{"name": "10 gold pieces", "subtype": "gold", "level": "D:4", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"accuracy": 3, "class": "Hand Weapons", "artefact": false, "level": "D:4", "name": "+0 hand axe", "plus": 0, "subtype": "hand axe", "damage": 7, "basename": "hand axe", "delay": 13, "weap_skill": "Axes"}
+{"accuracy": 6, "class": "Hand Weapons", "level": "D:4", "artefact": false, "name": "+0 dagger of venom", "subtype": "dagger", "plus": 0, "damage": 4, "ego": "venom", "basename": "dagger", "delay": 10, "weap_skill": "Short Blades"}
+{"subtype": "body", "class": "Armour", "artefact": false, "ac": 2, "plus": 0, "level": "D:4", "basename": "robe", "name": "+0 robe", "encumbrance": 0}
+{"accuracy": 1, "class": "Hand Weapons", "artefact": false, "level": "D:4", "name": "+0 trident", "plus": 0, "subtype": "trident", "damage": 9, "basename": "trident", "delay": 13, "weap_skill": "Polearms"}
+{"subtype": "helmet", "class": "Armour", "artefact": false, "ac": 1, "plus": 0, "level": "D:4", "basename": "helmet", "name": "+0 helmet", "encumbrance": 0}
+{"subtype": "body", "class": "Armour", "artefact": false, "ac": 2, "plus": 0, "level": "D:4", "basename": "robe", "name": "+0 robe", "encumbrance": 0}
+{"accuracy": 6, "class": "Hand Weapons", "artefact": false, "level": "D:4", "name": "+0 dagger", "plus": 0, "subtype": "dagger", "damage": 4, "basename": "dagger", "delay": 10, "weap_skill": "Short Blades"}
+{"accuracy": 3, "class": "Hand Weapons", "artefact": false, "level": "D:4", "name": "+0 club", "plus": 0, "subtype": "club", "damage": 5, "basename": "club", "delay": 13, "weap_skill": "Maces & Flails"}
+{"accuracy": 6, "class": "Hand Weapons", "artefact": false, "level": "D:4", "name": "+0 dagger", "plus": 0, "subtype": "dagger", "damage": 4, "basename": "dagger", "delay": 10, "weap_skill": "Short Blades"}
+{"subtype": "body", "class": "Armour", "artefact": false, "ac": 2, "plus": 0, "level": "D:4", "basename": "robe", "name": "+0 robe", "encumbrance": 0}
+{"accuracy": 3, "class": "Hand Weapons", "artefact": false, "level": "D:4", "name": "+0 club", "plus": 0, "subtype": "club", "damage": 5, "basename": "club", "delay": 13, "weap_skill": "Maces & Flails"}
+{"accuracy": 3, "class": "Hand Weapons", "artefact": false, "level": "D:4", "name": "+0 club", "plus": 0, "subtype": "club", "damage": 5, "basename": "club", "delay": 13, "weap_skill": "Maces & Flails"}
+{"name": "15 gold pieces", "subtype": "gold", "level": "D:4", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"level": "D:4", "basename": "stone", "name": "4 stones", "subtype": "stone", "weap_skill": "Throwing", "class": "Missiles", "damage": 2, "artefact": false}
+{"subtype": "cloak", "class": "Armour", "artefact": false, "ac": 1, "plus": 0, "level": "D:4", "basename": "cloak", "name": "+0 cloak", "encumbrance": 0}
+{"name": "potion of degeneration", "subtype": "degeneration", "level": "D:4", "class": "Potions", "basename": "potion", "artefact": false}
+{"accuracy": 6, "class": "Hand Weapons", "artefact": false, "level": "D:4", "name": "+0 dagger", "plus": 0, "subtype": "dagger", "damage": 4, "basename": "dagger", "delay": 10, "weap_skill": "Short Blades"}
+{"subtype": "dart", "class": "Missiles", "artefact": false, "name": "3 poisoned darts", "level": "D:4", "ego": "poison", "basename": "dart", "weap_skill": "Throwing", "damage": 0}
+{"name": "15 gold pieces", "subtype": "gold", "level": "D:4", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"name": "scroll of revelation", "subtype": "revelation", "level": "D:4", "class": "Scrolls", "basename": "scroll", "artefact": false}
+{"name": "potion of lignification", "subtype": "lignification", "level": "D:4", "class": "Potions", "basename": "potion", "artefact": false}
+{"name": "potion of curing", "subtype": "curing", "level": "D:4", "class": "Potions", "basename": "potion", "artefact": false}
+{"name": "8 gold pieces", "subtype": "gold", "level": "D:4", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"level": "D:4", "basename": "stone", "name": "7 stones", "subtype": "stone", "weap_skill": "Throwing", "class": "Missiles", "damage": 2, "artefact": false}
+{"name": "6 gold pieces", "subtype": "gold", "level": "D:4", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"name": "potion of ambrosia", "subtype": "ambrosia", "level": "D:4", "class": "Potions", "basename": "potion", "artefact": false}
+{"accuracy": 3, "class": "Hand Weapons", "artefact": false, "level": "D:4", "name": "+0 club", "plus": 0, "subtype": "club", "damage": 5, "basename": "club", "delay": 13, "weap_skill": "Maces & Flails"}
+{"level": "D:4", "basename": "stone", "name": "2 stones", "subtype": "stone", "weap_skill": "Throwing", "class": "Missiles", "damage": 2, "artefact": false}
+{"accuracy": -3, "class": "Hand Weapons", "artefact": false, "level": "D:4", "name": "+0 halberd", "plus": 0, "subtype": "halberd", "damage": 13, "basename": "halberd", "delay": 15, "weap_skill": "Polearms"}
+{"name": "scroll of amnesia", "subtype": "amnesia", "level": "D:4", "class": "Scrolls", "basename": "scroll", "artefact": false}
+{"accuracy": 2, "class": "Hand Weapons", "artefact": false, "level": "D:4", "name": "+0 whip", "plus": 0, "subtype": "whip", "damage": 6, "basename": "whip", "delay": 11, "weap_skill": "Maces & Flails"}
+{"level": "D:4", "name": "amulet of regeneration", "subtype": "amulet of regeneration", "ego": "regeneration", "class": "Jewellery", "basename": "amulet", "artefact": false}
+{"accuracy": 3, "class": "Hand Weapons", "artefact": false, "level": "D:4", "name": "+0 club", "plus": 0, "subtype": "club", "damage": 5, "basename": "club", "delay": 13, "weap_skill": "Maces & Flails"}
+{"name": "12 gold pieces", "subtype": "gold", "level": "D:5", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"name": "11 gold pieces", "subtype": "gold", "level": "D:5", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"accuracy": 0, "class": "Hand Weapons", "artefact": false, "level": "D:5", "name": "+0 flail", "plus": 0, "subtype": "flail", "damage": 10, "basename": "flail", "delay": 14, "weap_skill": "Maces & Flails"}
+{"name": "8 gold pieces", "subtype": "gold", "level": "D:5", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"accuracy": 3, "class": "Hand Weapons", "artefact": false, "level": "D:5", "name": "+0 club", "plus": 0, "subtype": "club", "damage": 5, "basename": "club", "delay": 13, "weap_skill": "Maces & Flails"}
+{"accuracy": 6, "class": "Hand Weapons", "artefact": false, "level": "D:5", "name": "+0 dagger", "plus": 0, "subtype": "dagger", "damage": 4, "basename": "dagger", "delay": 10, "weap_skill": "Short Blades"}
+{"accuracy": 6, "class": "Hand Weapons", "artefact": false, "level": "D:5", "name": "+0 dagger", "plus": 0, "subtype": "dagger", "damage": 4, "basename": "dagger", "delay": 10, "weap_skill": "Short Blades"}
+{"accuracy": 3, "class": "Hand Weapons", "artefact": false, "level": "D:5", "name": "+0 hand axe", "plus": 0, "subtype": "hand axe", "damage": 7, "basename": "hand axe", "delay": 13, "weap_skill": "Axes"}
+{"accuracy": 0, "class": "Hand Weapons", "artefact": false, "level": "D:5", "name": "+0 war axe", "plus": 0, "subtype": "war axe", "damage": 11, "basename": "war axe", "delay": 15, "weap_skill": "Axes"}
+{"accuracy": 6, "class": "Hand Weapons", "artefact": false, "level": "D:5", "name": "+0 dagger", "plus": 0, "subtype": "dagger", "damage": 4, "basename": "dagger", "delay": 10, "weap_skill": "Short Blades"}
+{"subtype": "body", "class": "Armour", "artefact": false, "ac": 2, "name": "+1 robe of fire resistance", "level": "D:5", "ego": "fire resistance", "basename": "robe", "plus": 1, "encumbrance": 0}
+{"name": "16 gold pieces", "subtype": "gold", "level": "D:5", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"name": "potion of curing", "subtype": "curing", "level": "D:5", "class": "Potions", "basename": "potion", "artefact": false}
+{"accuracy": 3, "class": "Hand Weapons", "artefact": false, "level": "D:5", "name": "+0 club", "plus": 0, "subtype": "club", "damage": 5, "basename": "club", "delay": 13, "weap_skill": "Maces & Flails"}
+{"accuracy": -3, "class": "Hand Weapons", "level": "D:5", "artefact": false, "name": "+3 dire flail of holy wrath", "subtype": "dire flail", "plus": 3, "damage": 13, "ego": "holy wrath", "basename": "dire flail", "delay": 13, "weap_skill": "Maces & Flails"}
+{"name": "potion of might", "subtype": "might", "level": "D:5", "class": "Potions", "basename": "potion", "artefact": false}
+{"accuracy": 0, "class": "Hand Weapons", "artefact": false, "level": "D:5", "name": "+0 flail", "plus": 0, "subtype": "flail", "damage": 10, "basename": "flail", "delay": 14, "weap_skill": "Maces & Flails"}
+{"accuracy": 3, "class": "Hand Weapons", "artefact": false, "level": "D:5", "name": "+0 hand axe", "plus": 0, "subtype": "hand axe", "damage": 7, "basename": "hand axe", "delay": 13, "weap_skill": "Axes"}
+{"accuracy": 2, "class": "Hand Weapons", "level": "D:5", "artefact": false, "name": "+2 whip of flaming", "subtype": "whip", "plus": 2, "damage": 6, "ego": "flaming", "basename": "whip", "delay": 11, "weap_skill": "Maces & Flails"}
+{"subtype": "body", "class": "Armour", "artefact": false, "ac": 2, "plus": 0, "level": "D:5", "basename": "robe", "name": "+0 robe", "encumbrance": 0}
+{"accuracy": 6, "class": "Hand Weapons", "artefact": false, "level": "D:5", "name": "+0 dagger", "plus": 0, "subtype": "dagger", "damage": 4, "basename": "dagger", "delay": 10, "weap_skill": "Short Blades"}
+{"subtype": "body", "class": "Armour", "artefact": false, "ac": 2, "plus": 0, "level": "D:5", "basename": "robe", "name": "+0 robe", "encumbrance": 0}
+{"name": "19 gold pieces", "subtype": "gold", "level": "D:5", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"name": "14 gold pieces", "subtype": "gold", "level": "D:5", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"name": "14 gold pieces", "subtype": "gold", "level": "D:5", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"level": "D:5", "basename": "ring", "name": "ring \"Ceffos\" {Ice Int+3}", "subtype": "ring of ice", "ego": "ice", "class": "Jewellery", "artprops": {"Int": 3}, "artefact": true}
+{"accuracy": 2, "class": "Hand Weapons", "artefact": false, "level": "D:5", "name": "+0 falchion", "plus": 0, "subtype": "falchion", "damage": 8, "basename": "falchion", "delay": 13, "weap_skill": "Long Blades"}
+{"accuracy": 4, "class": "Hand Weapons", "artefact": false, "level": "D:5", "name": "+0 short sword", "plus": 0, "subtype": "short sword", "damage": 5, "basename": "short sword", "delay": 10, "weap_skill": "Short Blades"}
+{"accuracy": 5, "class": "Magical Staves", "artefact": false, "level": "D:5", "name": "staff of fire", "damage": 5, "subtype": "fire", "basename": "staff of fire", "delay": 12, "weap_skill": "Staves"}
+{"accuracy": 3, "class": "Hand Weapons", "artefact": false, "level": "D:5", "name": "+0 hand axe", "plus": 0, "subtype": "hand axe", "damage": 7, "basename": "hand axe", "delay": 13, "weap_skill": "Axes"}
+{"name": "10 gold pieces", "subtype": "gold", "level": "D:5", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"accuracy": 3, "class": "Hand Weapons", "artefact": false, "level": "D:5", "name": "+0 club", "plus": 0, "subtype": "club", "damage": 5, "basename": "club", "delay": 13, "weap_skill": "Maces & Flails"}
+{"accuracy": 3, "class": "Hand Weapons", "artefact": false, "level": "D:5", "name": "+0 hand axe", "plus": 0, "subtype": "hand axe", "damage": 7, "basename": "hand axe", "delay": 13, "weap_skill": "Axes"}
+{"accuracy": 2, "class": "Hand Weapons", "artefact": false, "level": "D:5", "name": "+0 whip", "plus": 0, "subtype": "whip", "damage": 6, "basename": "whip", "delay": 11, "weap_skill": "Maces & Flails"}
+{"name": "scroll of revelation", "subtype": "revelation", "level": "D:5", "class": "Scrolls", "basename": "scroll", "artefact": false}
+{"accuracy": 0, "class": "Hand Weapons", "artefact": false, "level": "D:5", "name": "+0 sling", "plus": 0, "subtype": "sling", "damage": 7, "basename": "sling", "delay": 14, "weap_skill": "Ranged Weapons"}
+{"accuracy": -3, "class": "Hand Weapons", "level": "D:5", "artefact": false, "name": "+3 glaive of flaming", "subtype": "glaive", "plus": 3, "damage": 15, "ego": "flaming", "basename": "glaive", "delay": 17, "weap_skill": "Polearms"}
+{"subtype": "body", "class": "Armour", "artefact": false, "ac": 2, "name": "+2 robe of fire resistance", "level": "D:5", "ego": "fire resistance", "basename": "robe", "plus": 2, "encumbrance": 0}
+{"name": "potion of curing", "subtype": "curing", "level": "D:5", "class": "Potions", "basename": "potion", "artefact": false}
+{"subtype": "body", "class": "Armour", "artefact": true, "ac": 2, "name": "+1 robe of the Two of Swords {rElec rF- Str+4 Int+4}", "level": "D:5", "artprops": {"Str": 4, "rElec": 1, "Int": 4, "rF": -1}, "basename": "robe of the Two of Swords", "plus": 1, "encumbrance": 0}
+{"level": "D:5", "basename": "stone", "name": "4 stones", "subtype": "stone", "weap_skill": "Throwing", "class": "Missiles", "damage": 2, "artefact": false}
+{"accuracy": -3, "class": "Hand Weapons", "level": "D:6", "artefact": false, "name": "+1 glaive of flaming", "subtype": "glaive", "plus": 1, "damage": 15, "ego": "flaming", "basename": "glaive", "delay": 17, "weap_skill": "Polearms"}
+{"name": "11 gold pieces", "subtype": "gold", "level": "D:6", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"name": "15 gold pieces", "subtype": "gold", "level": "D:6", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"name": "8 gold pieces", "subtype": "gold", "level": "D:6", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"accuracy": 2, "class": "Hand Weapons", "artefact": false, "level": "D:6", "name": "+0 whip", "plus": 0, "subtype": "whip", "damage": 6, "basename": "whip", "delay": 11, "weap_skill": "Maces & Flails"}
+{"name": "8 gold pieces", "subtype": "gold", "level": "D:6", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"name": "11 gold pieces", "subtype": "gold", "level": "D:6", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"name": "scroll of poison", "subtype": "poison", "level": "D:6", "class": "Scrolls", "basename": "scroll", "artefact": false}
+{"name": "scroll of summoning", "subtype": "summoning", "level": "D:6", "class": "Scrolls", "basename": "scroll", "artefact": false}
+{"name": "17 gold pieces", "subtype": "gold", "level": "D:6", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"level": "D:6", "name": "Maxwell's Memoranda", "subtype": "Maxwell's Memoranda", "basename": "book", "spells": {"1": "Vhi's Electric Charge", "2": "Arcjolt", "3": "Maxwell's Capacitive Coupling"}, "class": "Books", "artefact": false}
+{"accuracy": -6, "class": "Hand Weapons", "artefact": false, "level": "D:6", "name": "+0 giant club", "plus": 0, "subtype": "giant club", "damage": 20, "basename": "giant club", "delay": 16, "weap_skill": "Maces & Flails"}
+{"accuracy": -6, "class": "Hand Weapons", "artefact": false, "level": "D:6", "name": "+0 giant club", "plus": 0, "subtype": "giant club", "damage": 20, "basename": "giant club", "delay": 16, "weap_skill": "Maces & Flails"}
+{"accuracy": 0, "class": "Hand Weapons", "artefact": false, "level": "D:6", "name": "+0 flail", "plus": 0, "subtype": "flail", "damage": 10, "basename": "flail", "delay": 14, "weap_skill": "Maces & Flails"}
+{"level": "D:6", "basename": "ring", "name": "ring of Equilibrium {*Corrode rPois rN+ Will+ Int+7}", "subtype": "ring of positive energy", "ego": "positive energy", "class": "Jewellery", "artprops": {"*Corrode": 1, "Will": 1, "Int": 7, "rPois": 1}, "artefact": true}
+{"name": "17 gold pieces", "subtype": "gold", "level": "D:6", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"level": "D:6", "basename": "ring", "name": "+4 ring of protection", "subtype": "ring of protection", "ego": "protection", "class": "Jewellery", "plus": 4, "artefact": false}
+{"name": "scroll of enchant weapon", "subtype": "enchant weapon", "level": "D:6", "class": "Scrolls", "basename": "scroll", "artefact": false}
+{"accuracy": -6, "class": "Hand Weapons", "artefact": false, "level": "D:6", "name": "+0 giant club", "plus": 0, "subtype": "giant club", "damage": 20, "basename": "giant club", "delay": 16, "weap_skill": "Maces & Flails"}
+{"name": "flux talisman", "subtype": "flux talisman", "level": "D:6", "class": "Talismans", "basename": "flux talisman", "artefact": false}
+{"level": "D:6", "basename": "ring", "name": "ring of Pelanes {rF- rN+ MP+9 Str+2 SInv}", "subtype": "ring of magical power", "ego": "magical power", "class": "Jewellery", "artprops": {"Str": 2, "rN": 1, "SInv": 1, "rF": -1}, "artefact": true}
+{"accuracy": 2, "class": "Hand Weapons", "artefact": false, "level": "D:6", "name": "+0 shortbow", "plus": 0, "subtype": "shortbow", "damage": 8, "basename": "shortbow", "delay": 14, "weap_skill": "Ranged Weapons"}
+{"name": "potion of brilliance", "subtype": "brilliance", "level": "D:6", "class": "Potions", "basename": "potion", "artefact": false}
+{"name": "11 gold pieces", "subtype": "gold", "level": "D:6", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"name": "9 gold pieces", "subtype": "gold", "level": "D:6", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"accuracy": 2, "class": "Hand Weapons", "artefact": false, "level": "D:6", "name": "+0 falchion", "plus": 0, "subtype": "falchion", "damage": 8, "basename": "falchion", "delay": 13, "weap_skill": "Long Blades"}
+{"name": "scroll of immolation", "subtype": "immolation", "level": "D:6", "class": "Scrolls", "basename": "scroll", "artefact": false}
+{"name": "14 gold pieces", "subtype": "gold", "level": "D:6", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"accuracy": 6, "class": "Hand Weapons", "level": "D:6", "artefact": false, "name": "+2 dagger of venom", "subtype": "dagger", "plus": 2, "damage": 4, "ego": "venom", "basename": "dagger", "delay": 10, "weap_skill": "Short Blades"}
+{"subtype": "body", "class": "Armour", "artefact": false, "ac": 2, "plus": 0, "level": "D:6", "basename": "robe", "name": "+0 robe", "encumbrance": 0}
+{"accuracy": 3, "class": "Hand Weapons", "level": "D:6", "artefact": false, "name": "+2 hand axe of electrocution", "subtype": "hand axe", "plus": 2, "damage": 7, "ego": "electrocution", "basename": "hand axe", "delay": 13, "weap_skill": "Axes"}
+{"accuracy": 2, "class": "Hand Weapons", "artefact": false, "level": "D:6", "name": "+0 falchion", "plus": 0, "subtype": "falchion", "damage": 8, "basename": "falchion", "delay": 13, "weap_skill": "Long Blades"}
+{"accuracy": 3, "class": "Hand Weapons", "artefact": false, "level": "D:6", "name": "+0 hand axe", "plus": 0, "subtype": "hand axe", "damage": 7, "basename": "hand axe", "delay": 13, "weap_skill": "Axes"}
+{"accuracy": 3, "class": "Hand Weapons", "artefact": false, "level": "D:6", "name": "+0 club", "plus": 0, "subtype": "club", "damage": 5, "basename": "club", "delay": 13, "weap_skill": "Maces & Flails"}
+{"name": "11 gold pieces", "subtype": "gold", "level": "D:6", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"name": "18 gold pieces", "subtype": "gold", "level": "D:6", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"level": "D:6", "basename": "ring", "name": "+6 ring of dexterity", "subtype": "ring of dexterity", "ego": "dexterity", "class": "Jewellery", "plus": 6, "artefact": false}
+{"name": "13 gold pieces", "subtype": "gold", "level": "D:6", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"accuracy": 3, "class": "Hand Weapons", "artefact": false, "level": "D:6", "name": "+0 mace", "plus": 0, "subtype": "mace", "damage": 8, "basename": "mace", "delay": 14, "weap_skill": "Maces & Flails"}
+{"name": "18 gold pieces", "subtype": "gold", "level": "D:6", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"accuracy": 6, "class": "Hand Weapons", "artefact": false, "level": "D:7", "name": "+0 dagger", "plus": 0, "subtype": "dagger", "damage": 4, "basename": "dagger", "delay": 10, "weap_skill": "Short Blades"}
+{"subtype": "body", "class": "Armour", "artefact": false, "ac": 2, "name": "+2 robe of fire resistance", "level": "D:7", "ego": "fire resistance", "basename": "robe", "plus": 2, "encumbrance": 0}
+{"accuracy": 6, "class": "Hand Weapons", "artefact": false, "level": "D:7", "name": "+0 dagger", "plus": 0, "subtype": "dagger", "damage": 4, "basename": "dagger", "delay": 10, "weap_skill": "Short Blades"}
+{"subtype": "body", "class": "Armour", "artefact": false, "ac": 2, "plus": 0, "level": "D:7", "basename": "robe", "name": "+0 robe", "encumbrance": 0}
+{"accuracy": 3, "class": "Hand Weapons", "artefact": false, "level": "D:7", "name": "+0 hand axe", "plus": 0, "subtype": "hand axe", "damage": 7, "basename": "hand axe", "delay": 13, "weap_skill": "Axes"}
+{"accuracy": 0, "class": "Hand Weapons", "artefact": false, "level": "D:7", "name": "+0 flail", "plus": 0, "subtype": "flail", "damage": 10, "basename": "flail", "delay": 14, "weap_skill": "Maces & Flails"}
+{"level": "D:7", "name": "wand of flame (23)", "subtype": "flame", "basename": "wand", "class": "Wands", "plus": 23, "artefact": false}
+{"level": "D:7", "name": "wand of flame (10)", "subtype": "flame", "basename": "wand", "class": "Wands", "plus": 10, "artefact": false}
+{"name": "11 gold pieces", "subtype": "gold", "level": "D:7", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"level": "D:7", "name": "book of Lightning", "subtype": "book of Lightning", "basename": "book", "spells": {"1": "Vhi's Electric Charge", "2": "Arcjolt", "3": "Plasma Beam"}, "class": "Books", "artefact": false}
+{"accuracy": 3, "class": "Hand Weapons", "artefact": false, "level": "D:7", "name": "+0 hammer", "plus": 0, "subtype": "mace", "damage": 8, "basename": "hammer", "delay": 14, "weap_skill": "Maces & Flails"}
+{"accuracy": 3, "class": "Hand Weapons", "level": "D:7", "artefact": false, "name": "+3 quarterstaff of chaos", "subtype": "quarterstaff", "plus": 3, "damage": 10, "ego": "chaos", "basename": "quarterstaff", "delay": 13, "weap_skill": "Staves"}
+{"subtype": "cloak", "class": "Armour", "artefact": false, "ac": 1, "plus": 0, "level": "D:7", "basename": "cloak", "name": "+0 cloak", "encumbrance": 0}
+{"name": "3 scrolls of identify", "subtype": "identify", "level": "D:7", "class": "Scrolls", "basename": "scroll", "artefact": false}
+{"accuracy": 0, "class": "Hand Weapons", "artefact": false, "level": "D:7", "name": "+4 war axe", "plus": 4, "subtype": "war axe", "damage": 11, "basename": "war axe", "delay": 15, "weap_skill": "Axes"}
+{"subtype": "body", "class": "Armour", "artefact": false, "ac": 2, "plus": 0, "level": "D:7", "basename": "robe", "name": "+0 robe", "encumbrance": 0}
+{"accuracy": -3, "class": "Hand Weapons", "artefact": false, "level": "D:7", "name": "+0 orcbow", "plus": 0, "subtype": "orcbow", "damage": 11, "basename": "orcbow", "delay": 15, "weap_skill": "Ranged Weapons"}
+{"accuracy": 0, "class": "Hand Weapons", "artefact": false, "level": "D:7", "name": "+0 flail", "plus": 0, "subtype": "flail", "damage": 10, "basename": "flail", "delay": 14, "weap_skill": "Maces & Flails"}
+{"subtype": "body", "class": "Armour", "artefact": false, "ac": 2, "plus": 0, "level": "D:7", "basename": "robe", "name": "+0 robe", "encumbrance": 0}
+{"accuracy": 0, "class": "Hand Weapons", "artefact": false, "level": "D:7", "name": "+0 flail", "plus": 0, "subtype": "flail", "damage": 10, "basename": "flail", "delay": 14, "weap_skill": "Maces & Flails"}
+{"subtype": "body", "class": "Armour", "artefact": false, "ac": 2, "plus": 0, "level": "D:7", "basename": "robe", "name": "+0 robe", "encumbrance": 0}
+{"accuracy": 4, "class": "Hand Weapons", "artefact": false, "level": "D:7", "name": "+0 short sword", "plus": 0, "subtype": "short sword", "damage": 5, "basename": "short sword", "delay": 10, "weap_skill": "Short Blades"}
+{"accuracy": 4, "class": "Hand Weapons", "artefact": false, "level": "D:7", "name": "+2 short sword", "plus": 2, "subtype": "short sword", "damage": 5, "basename": "short sword", "delay": 10, "weap_skill": "Short Blades"}
+{"subtype": "body", "class": "Armour", "artefact": false, "ac": 2, "plus": 0, "level": "D:7", "basename": "robe", "name": "+0 robe", "encumbrance": 0}
+{"name": "potion of berserk rage", "subtype": "berserk rage", "level": "D:7", "class": "Potions", "basename": "potion", "artefact": false}
+{"accuracy": -3, "class": "Hand Weapons", "artefact": false, "level": "D:7", "name": "+3 great sword", "plus": 3, "subtype": "great sword", "damage": 17, "basename": "great sword", "delay": 17, "weap_skill": "Long Blades"}
+{"subtype": "body", "class": "Armour", "artefact": false, "ac": 2, "plus": 0, "level": "D:7", "basename": "robe", "name": "+0 robe", "encumbrance": 0}
+{"accuracy": 6, "class": "Hand Weapons", "level": "D:7", "artefact": false, "name": "+3 dagger of freezing", "subtype": "dagger", "plus": 3, "damage": 4, "ego": "freezing", "basename": "dagger", "delay": 10, "weap_skill": "Short Blades"}
+{"subtype": "body", "class": "Armour", "artefact": false, "ac": 2, "plus": 0, "level": "D:7", "basename": "robe", "name": "+0 robe", "encumbrance": 0}
+{"accuracy": 3, "class": "Hand Weapons", "artefact": false, "level": "D:7", "name": "+5 mace", "plus": 5, "subtype": "mace", "damage": 8, "basename": "mace", "delay": 14, "weap_skill": "Maces & Flails"}
+{"subtype": "body", "class": "Armour", "artefact": false, "ac": 2, "plus": 0, "level": "D:7", "basename": "robe", "name": "+0 robe", "encumbrance": 0}
+{"accuracy": 2, "class": "Hand Weapons", "artefact": false, "level": "D:7", "name": "+1 falchion", "plus": 1, "subtype": "falchion", "damage": 8, "basename": "falchion", "delay": 13, "weap_skill": "Long Blades"}
+{"subtype": "body", "class": "Armour", "artefact": false, "ac": 2, "plus": 0, "level": "D:7", "basename": "robe", "name": "+0 robe", "encumbrance": 0}
+{"name": "14 gold pieces", "subtype": "gold", "level": "D:7", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"accuracy": 0, "class": "Hand Weapons", "artefact": false, "level": "D:7", "name": "+0 flail", "plus": 0, "subtype": "flail", "damage": 10, "basename": "flail", "delay": 14, "weap_skill": "Maces & Flails"}
+{"accuracy": 1, "class": "Hand Weapons", "level": "D:7", "artefact": false, "name": "+2 trident of freezing", "subtype": "trident", "plus": 2, "damage": 9, "ego": "freezing", "basename": "trident", "delay": 13, "weap_skill": "Polearms"}
+{"accuracy": 1, "class": "Hand Weapons", "artefact": false, "level": "D:7", "name": "+0 trident", "plus": 0, "subtype": "trident", "damage": 9, "basename": "trident", "delay": 13, "weap_skill": "Polearms"}
+{"accuracy": 4, "class": "Hand Weapons", "artefact": false, "level": "D:7", "name": "+0 short sword", "plus": 0, "subtype": "short sword", "damage": 5, "basename": "short sword", "delay": 10, "weap_skill": "Short Blades"}
+{"level": "D:7", "name": "Nounk's Thoughts on Sparks", "subtype": "book of Fixed Theme", "basename": "book", "spells": {"1": "Foxfire", "2": "Fireball", "3": "Plasma Beam"}, "class": "Books", "artefact": true}
+{"accuracy": 0, "class": "Hand Weapons", "artefact": false, "level": "D:7", "name": "+0 flail", "plus": 0, "subtype": "flail", "damage": 10, "basename": "flail", "delay": 14, "weap_skill": "Maces & Flails"}
+{"name": "13 gold pieces", "subtype": "gold", "level": "D:7", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"accuracy": 2, "class": "Hand Weapons", "artefact": false, "level": "D:7", "name": "+0 falchion", "plus": 0, "subtype": "falchion", "damage": 8, "basename": "falchion", "delay": 13, "weap_skill": "Long Blades"}
+{"accuracy": 2, "class": "Hand Weapons", "artefact": false, "level": "D:7", "name": "+0 whip", "plus": 0, "subtype": "whip", "damage": 6, "basename": "whip", "delay": 11, "weap_skill": "Maces & Flails"}
+{"accuracy": 3, "class": "Hand Weapons", "artefact": false, "level": "D:7", "name": "+0 mace", "plus": 0, "subtype": "mace", "damage": 8, "basename": "mace", "delay": 14, "weap_skill": "Maces & Flails"}
+{"name": "18 gold pieces", "subtype": "gold", "level": "D:7", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"level": "D:7", "basename": "stone", "name": "6 stones", "subtype": "stone", "weap_skill": "Throwing", "class": "Missiles", "damage": 2, "artefact": false}
+{"accuracy": 0, "class": "Hand Weapons", "artefact": false, "level": "D:7", "name": "+0 scimitar", "plus": 0, "subtype": "scimitar", "damage": 12, "basename": "scimitar", "delay": 14, "weap_skill": "Long Blades"}
+{"level": "D:7", "name": "wand of polymorph (4)", "subtype": "polymorph", "basename": "wand", "class": "Wands", "plus": 4, "artefact": false}
+{"name": "17 gold pieces", "subtype": "gold", "level": "D:7", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"name": "13 gold pieces", "subtype": "gold", "level": "D:7", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"name": "16 gold pieces", "subtype": "gold", "level": "D:7", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"name": "15 gold pieces", "subtype": "gold", "level": "D:7", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"name": "potion of curing", "subtype": "curing", "level": "D:7", "class": "Potions", "basename": "potion", "artefact": false}
+{"accuracy": -3, "class": "Hand Weapons", "artefact": false, "level": "D:7", "name": "+0 orcbow", "plus": 0, "subtype": "orcbow", "damage": 11, "basename": "orcbow", "delay": 15, "weap_skill": "Ranged Weapons"}
+{"name": "14 gold pieces", "subtype": "gold", "level": "D:7", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"level": "D:7", "name": "ring of wizardry", "subtype": "ring of wizardry", "ego": "wizardry", "class": "Jewellery", "basename": "ring", "artefact": false}
+{"name": "17 gold pieces", "subtype": "gold", "level": "D:7", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"name": "potion of curing", "subtype": "curing", "level": "D:7", "class": "Potions", "basename": "potion", "artefact": false}
+{"name": "15 gold pieces", "subtype": "gold", "level": "D:7", "class": "Gold", "basename": "gold piece", "artefact": false}
+{"accuracy": 3, "class": "Hand Weapons", "artefact": false, "level": "D:7", "name": "+0 hand axe", "plus": 0, "subtype": "hand axe", "damage": 7, "basename": "hand axe", "delay": 13, "weap_skill": "Axes"}
